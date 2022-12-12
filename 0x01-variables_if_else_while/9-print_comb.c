@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description for retuen value of main is 0
+ *
+ * Description: 'the program's description'
+ *
  * Return ALways 0 (Success)
  */
 
