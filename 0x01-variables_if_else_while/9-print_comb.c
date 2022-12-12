@@ -1,10 +1,11 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
  * Description: 'the program's description'
  *
- * Return ALways 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
