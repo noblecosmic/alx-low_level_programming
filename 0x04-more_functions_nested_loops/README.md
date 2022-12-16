@@ -1,10 +1,9 @@
-Tasks
-0. isupper
+1. isdigit
 mandatory
 Score: 0.0% (Checks completed: 0.0%)
-Write a function that checks for uppercase character.
+Write a function that checks for a digit (0 through 9).
 
-Prototype: int _isupper(int c);
-Returns 1 if c is uppercase
+Prototype: int _isdigit(int c);
+Returns 1 if c is a digit
 Returns 0 otherwise
-FYI: The standard library provides a similar function: isupper. Run man isupper to learn more.
+FYI: The standard library provides a similar function: isdigit. Run man isdigit to learn more
