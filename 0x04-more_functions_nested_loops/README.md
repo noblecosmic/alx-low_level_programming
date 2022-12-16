@@ -1,6 +1,4 @@
-2. Collaboration is multiplication
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
-Write a function that multiplies two integers.
+Write a function that prints the numbers, from 0 to 9, followed by a new line.
 
-Prototype: int mul(int a, int b);
+Prototype: void print_numbers(void);
+You can only use _putchar twice in your code
