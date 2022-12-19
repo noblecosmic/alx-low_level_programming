@@ -1,4 +1,3 @@
-Write a function that prints a string, followed by a new line, to stdout.
+Write a function that prints a string, in reverse, followed by a new line.
 
-Prototype: void _puts(char *str);
-FYI: The standard library provides a similar function: puts. Run man puts to learn more.
+Prototype: void print_rev(char *s);
