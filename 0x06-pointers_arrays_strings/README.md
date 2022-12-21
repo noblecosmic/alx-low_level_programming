@@ -1,7 +1,7 @@
-Write a function that encodes a string using rot13.
+Write a function that prints an integer.
 
-Prototype: char *rot13(char *);
-You can only use if statement once in your code
-You can only use two loops in your code
-You are not allowed to use switch
-You are not allowed to use any ternary operation
+Prototype: void print_number(int n);
+You can only use _putchar function to print
+You are not allowed to use long
+You are not allowed to use arrays or pointers
+You are not allowed to hard-code special values
