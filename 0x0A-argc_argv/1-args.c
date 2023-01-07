@@ -7,8 +7,9 @@
  * @argv: pointer to pointers array
  * return: Always 0
  */
-int main(int argc, char __attribute__((unused)) *argv[])
+int main(int argc, char *argv[])
 {
-	printf("argc = %d\n", argc - 1);
+	printf("%d\n", argc - 1);
+	argv[0] = 0;
 	return (0);
 }
