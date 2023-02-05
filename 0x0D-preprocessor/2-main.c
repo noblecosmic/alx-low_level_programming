@@ -4,13 +4,13 @@
 
 /**
  *
- *  * main - check the code for Holberton School students.
+ *   * main - Prints the file name of the program
  *
- *   *
+ *     *
  *
- *    * Return: 1 if an error occurred, 0 otherwise
+ *       * Return: Always zero
  *
- *     */
+ *         */
 
 int main(void)
 
